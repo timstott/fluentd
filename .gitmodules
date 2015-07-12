@@ -1,0 +1,3 @@
+[submodule "lib/fluent/plugin/fluent-plugin-graylog"]
+	path = lib/fluent/plugin/fluent-plugin-graylog
+	url = git@github.com:FundingCircle/fluent-plugin-graylog.git

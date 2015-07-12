@@ -1,0 +1,1 @@
+./fluent-plugin-graylog/lib/fluent/plugin/out_graylog.rb
